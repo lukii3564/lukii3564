@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://canva.link/839uibml43f6i5r" alt="Dev Luki banner" width="1000">
+</p>
+
 Hi there 👋
 # Hi, I am Dev Luki 👋
 
