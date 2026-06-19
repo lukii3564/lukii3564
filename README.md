@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi there 👋
+Hi, I am Dev Luki
+Full Stack Developer focused on building clean, scalable web applications
+Passionate about UI, performance, and problem solving
 
 <!--
 **lukii3564/lukii3564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
