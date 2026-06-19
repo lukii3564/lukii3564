@@ -48,6 +48,6 @@ I enjoy solving real world problems through thoughtful design, efficient code, a
   ## 📫 Connect With Me
 
 - Email: lukoyejackson77@gmail.com  
-- LinkedIn: linkedin.com/in/lukoyejackson-b86a352a2  
+- LinkedIn:https://www.linkedin.com/in/lukoye-jackson-b86a352a2/
 
 I am always open to collaborations, learning opportunities, and meaningful conversations around technology.
