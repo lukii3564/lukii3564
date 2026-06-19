@@ -29,8 +29,8 @@ I enjoy solving real world problems through thoughtful design, efficient code, a
 
 ## 📊 GitHub Stats
 
-![Luki's GitHub stats](https://github-readme-stats.vercel.app/api?username=luki3564&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luki3564&layout=compact&theme=tokyonight)
+![Lukii's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukii3564&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukii3564&layout=compact&theme=tokyonight)
 
 ## 🚀 Featured Projects
 
