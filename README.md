@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://canva.link/839uibml43f6i5r" alt="Dev Luki banner" width="1000">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQFpQnu2dSKWgg/profile-displayphoto-crop_800_800/B4DZh578.jGQAI-/0/1754392418578?e=1792022400&v=beta&t=lnZrGSosAxbyaLPvcESWHKAcF3V_vDw7l-ofyV4nqdk" alt="Dev Luki banner" width="1000">
 </p>
 
-Hi there 👋
+Hi there 
 # Hi, I am Dev Luki 👋
 
 Full Stack Developer focused on building clean, scalable, and user centered web applications.  
